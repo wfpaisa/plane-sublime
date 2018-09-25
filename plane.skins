@@ -1,0 +1,15 @@
+{
+  "plane light": {
+    "Preferences": {
+      "color_scheme": "Packages/plane/plane-light.tmTheme",
+      "theme": "plane-light.sublime-theme",
+    }
+  },
+
+  "plane dark": {
+    "Preferences": {
+      "color_scheme": "Packages/plane/plane-dark.tmTheme",
+      "theme": "plane-dark.sublime-theme",
+    }
+  }
+}

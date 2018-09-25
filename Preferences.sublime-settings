@@ -1,0 +1,19 @@
+{
+    // plane theme: Use native titlebars on macOs
+    "ui_native_titlebar": false,
+
+    // plane theme: Show separators between panels
+    "ui_separator": false,
+
+    // plane theme: Use smaller font size for UI
+    "ui_font_size_small": false,
+
+    // plane theme: Use Source Code Pro as UI font
+    "ui_font_source_code_pro": false,
+
+    // plane theme: Use Roboto Mono as UI font
+    "ui_font_roboto_mono": false,
+
+    // plane theme: Display wider scrollbars
+    "ui_wide_scrollbars": false
+}

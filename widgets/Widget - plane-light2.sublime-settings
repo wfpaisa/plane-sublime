@@ -1,0 +1,9 @@
+// prefix="Widget - "
+// sublime="2"
+// ext="sublime-settings"
+{
+  "color_scheme": "Packages/plane/widgets/Widget - plane-light.stTheme",
+  "draw_shadows": false,
+  "font_options": ["subpixel_antialias"],
+  "line_padding_top": 3
+}
