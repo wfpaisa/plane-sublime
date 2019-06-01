@@ -5,7 +5,7 @@
 ---
 
 name: plane
-author: Ike Ku
+author: wfpaisa
 uuid: 0e709986-46a0-40a0-b3bf-c8dfe525c455
 colorSpaceName: sRGB
 semanticClass: plane."{theme}"
@@ -154,7 +154,6 @@ settings:
 - name: Language variable
   scope: variable.language
   settings:
-    fontStyle: italic
     foreground: &tag '"{syntax.tag.hex}"'
 
 - name: Tag
@@ -185,13 +184,11 @@ settings:
 - name: Library constant
   scope: support.constant
   settings:
-    fontStyle: italic
     foreground: *operator
 
 - name: Library class/type
   scope: support.type, support.class
   settings:
-    fontStyle: italic
     foreground: *tag
 
 - name: Invalid

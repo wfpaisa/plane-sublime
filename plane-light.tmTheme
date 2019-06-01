@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>author</key>
-	<string>Ike Ku</string>
+	<string>wfpaisa</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>name</key>
@@ -307,8 +307,6 @@ a {
 			<string>variable.language</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>italic</string>
 				<key>foreground</key>
 				<string>#55B4D4</string>
 			</dict>
@@ -375,8 +373,6 @@ a {
 			<string>support.constant</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>italic</string>
 				<key>foreground</key>
 				<string>#F29718</string>
 			</dict>
@@ -388,8 +384,6 @@ a {
 			<string>support.type, support.class</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>italic</string>
 				<key>foreground</key>
 				<string>#55B4D4</string>
 			</dict>
@@ -838,7 +832,7 @@ a {
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#61676C10</string>
+				<string>#E6E6E6</string>
 				<key>foreground</key>
 				<string>#61676C</string>
 			</dict>
@@ -851,7 +845,7 @@ a {
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#61676C10</string>
+				<string>#CCCCCC</string>
 				<key>foreground</key>
 				<string>#ABB0B6</string>
 			</dict>

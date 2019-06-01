@@ -67,3 +67,9 @@ For light theme:
 ### Thanks to
 
 - `ayu`: https://github.com/dempfi/ayu
+
+
+## Build
+It's necessary nodev8 nvm: `nvm use v8`, and run with `npm run watch` or `npm run build`.
+
+theme folder:  `./src`, colors in: `./src/themes` 

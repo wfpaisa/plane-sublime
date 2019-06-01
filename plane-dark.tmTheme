@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>author</key>
-	<string>Ike Ku</string>
+	<string>wfpaisa</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>name</key>
@@ -18,7 +18,7 @@
 				<key>accent</key>
 				<string>#007EFF</string>
 				<key>activeGuide</key>
-				<string>#5F636F</string>
+				<string>#686E7D</string>
 				<key>background</key>
 				<string>#1F2228</string>
 				<key>caret</key>
@@ -26,26 +26,26 @@
 				<key>findHighlight</key>
 				<string>#007EFF</string>
 				<key>findHighlightForeground</key>
-				<string>#2A2D35</string>
+				<string>#2F333D</string>
 				<key>foreground</key>
 				<string>#F8F8F2</string>
 				<key>guide</key>
-				<string>#41444E</string>
+				<string>#484C58</string>
 				<key>gutter</key>
 				<string>#1F2228</string>
 				<key>gutterForeground</key>
-				<string>#484C56</string>
+				<string>#505561</string>
 				<key>inactiveBackground</key>
-				<string>#2A2D35</string>
+				<string>#2F333D</string>
 				<key>inactiveSelection</key>
-				<string>#2E3139</string>
+				<string>#333741</string>
 				<key>invisibles</key>
-				<string>#484C56</string>
+				<string>#505561</string>
 				<key>lineHighlight</key>
-				<string>#2A2D34</string>
+				<string>#272B33</string>
 				<key>popupCss</key>
 				<string>html, body {
-  background-color: #2F323B;
+  background-color: #353943;
   color: #F8F8F2;
 }
 body {
@@ -56,13 +56,13 @@ a {
 }
 </string>
 				<key>selection</key>
-				<string>#34373E</string>
+				<string>#393D46</string>
 				<key>selectionBorder</key>
-				<string>#34373E</string>
+				<string>#393D46</string>
 				<key>shadow</key>
 				<string>#00000010</string>
 				<key>stackGuide</key>
-				<string>#41444E</string>
+				<string>#484C58</string>
 			</dict>
 		</dict>
 		<dict>
@@ -307,8 +307,6 @@ a {
 			<string>variable.language</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>italic</string>
 				<key>foreground</key>
 				<string>#FF87BF</string>
 			</dict>
@@ -375,8 +373,6 @@ a {
 			<string>support.constant</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>italic</string>
 				<key>foreground</key>
 				<string>#71F2C3</string>
 			</dict>
@@ -388,8 +384,6 @@ a {
 			<string>support.type, support.class</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>italic</string>
 				<key>foreground</key>
 				<string>#FF87BF</string>
 			</dict>
@@ -838,7 +832,7 @@ a {
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#F8F8F210</string>
+				<string>#1C1F24</string>
 				<key>foreground</key>
 				<string>#F8F8F2</string>
 			</dict>
@@ -851,7 +845,7 @@ a {
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#F8F8F210</string>
+				<string>#191B20</string>
 				<key>foreground</key>
 				<string>#69767D</string>
 			</dict>
@@ -908,7 +902,7 @@ a {
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#41444E</string>
+				<string>#484C58</string>
 			</dict>
 		</dict>
 		<dict>
@@ -919,7 +913,7 @@ a {
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#41444E</string>
+				<string>#484C58</string>
 			</dict>
 		</dict>
 		<dict>

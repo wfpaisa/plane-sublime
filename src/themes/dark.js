@@ -2,14 +2,14 @@ const $ = require('./color')
 
 const common = {
   accent: $`007EFF`,
-  bg: $.base`2A2D35`,
+  bg: $.base`2F333D`,
   fg: $`F8F8F2`,
-  ui: $`757A88`,
+  ui: $`818798`,
   editor: $`1F2228`
 }
 
 const syntax = {
-  tag: $`FF87BF`,       // Pink 
+  tag: $`FF87BF`,       // Pink
   func: $`71F2C3`,      // Green
   entity: $`A0DFFF`,    // Blue
   string: $`FFF6B2`,    // Yellow
@@ -41,7 +41,7 @@ const ui = {
 }
 
 const editor = {
-  line: common.bg.darken01,
+  line: common.bg.darken16,
   gutter: common.ui.fade40,
   selection: {
     bg: common.fg.fade5,
